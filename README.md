@@ -2,6 +2,8 @@
 
 Check my website link http://knitadmission.epizy.com/?i=1 for details with id-main password-12345
 
+Check My research paper on this link - https://www.sciencepubco.com/index.php/ijet/article/view/9664/3328
+
 In this project i have 
 Studied last 5 year admission results of an engineering college and then
 applied various supervised and unsupervised data mining algorithms to predict next
