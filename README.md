@@ -1,6 +1,5 @@
 # Knitadmission
 
-Check my website link http://knitadmission.epizy.com/?i=1 for details with id-main password-12345
 
 Check My research paper on this link - https://www.sciencepubco.com/index.php/ijet/article/view/9664/3328
 
